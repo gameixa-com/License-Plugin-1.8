@@ -1,0 +1,4 @@
+name: Sofixa-License-Plugin-1.8
+version: '1.0-SNAPSHOT'
+main: com.sofixa.license.plugin.Main
+api-version: 1.16
