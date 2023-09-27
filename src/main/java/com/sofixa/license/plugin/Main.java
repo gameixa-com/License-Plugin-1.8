@@ -17,7 +17,7 @@ import org.json.JSONObject;
 
 public class Main extends JavaPlugin {
 
-    private static final String API_URL = "https://leabproject.net/app/api/license.php?product=10&ip=";
+    private static final String API_URL = "your_api_url";
 
     @Override
     public void onEnable() {
